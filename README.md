@@ -10,7 +10,8 @@ The Collatz Conjecture is an unsolved mathematical problem witch is defind by:
 
 Formula:
 <br />   
-![image](https://user-images.githubusercontent.com/60653284/139057712-9811bb23-3c8f-448c-a605-d067e5e9d1d3.png)
+![image](https://user-images.githubusercontent.com/60653284/139057712-9811bb23-3c8f-448c-a605-d067e5e9d1d3.png) &emsp;&emsp;&emsp; ![image](https://user-images.githubusercontent.com/60653284/139228051-55241ed7-5fd2-4c22-a90a-f313cc6c0a18.png)
+
 <br />   
 
 ## In this Project:
