@@ -29,8 +29,7 @@ Formula:
 
 
 ## Video of result:
-https://user-images.githubusercontent.com/60653284/155886172-29779535-d25a-4183-a3cf-8549c664cc7d.mov
-
+![Hnet com-image](https://user-images.githubusercontent.com/60653284/155886343-0f8da94e-5815-4842-93ae-48982eafee7a.gif)
 
 ## Tool and Sources
 - matplotlib
