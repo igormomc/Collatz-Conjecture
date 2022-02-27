@@ -28,8 +28,9 @@ Formula:
 - Then you wait for a graph and information to pop up :)
 
 
-## Images of result (will become nicer sooner):
-<img width="340" alt="Screenshot 2021-10-27 at 13 44 26" src="https://user-images.githubusercontent.com/60653284/139059298-dbc9cbaf-5750-4f80-a0a7-ad4a432e9b2d.png">
+## Video of result:
+https://user-images.githubusercontent.com/60653284/155886172-29779535-d25a-4183-a3cf-8549c664cc7d.mov
+
 
 ## Tool and Sources
 - matplotlib
